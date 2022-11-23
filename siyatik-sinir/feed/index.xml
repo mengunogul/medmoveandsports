@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Siyatik Sinir yazısına yapılan yorumlar	</title>
-	<atom:link href="/siyatik-sinir/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bobryke.github.io/medmoveandsports/siyatik-sinir/feed/" rel="self" type="application/rss+xml" />
 	<link>/siyatik-sinir/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=siyatik-sinir</link>
 	<description>Sporcu sağlığı,Spor sakatlıkları,Ortopedik Rehabilitasyon,Manuel Terapi</description>
 	<lastBuildDate>Mon, 11 Jan 2021 13:07:23 +0000</lastBuildDate>
