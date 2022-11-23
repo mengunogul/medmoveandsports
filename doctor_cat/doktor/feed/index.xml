@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Doktor - Med Move and Sports Fizik Tedavi Kliniği</title>
-	<atom:link href="https://bobryke.github.io/medmoveandsports/doctor_cat/doktor/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://medmoveandsports.com/doctor_cat/doktor/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Sporcu sağlığı,Spor sakatlıkları,Ortopedik Rehabilitasyon,Manuel Terapi</description>
 	<lastBuildDate>Thu, 07 Jan 2021 17:06:15 +0000</lastBuildDate>
